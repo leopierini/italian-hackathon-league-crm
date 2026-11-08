@@ -1,0 +1,4 @@
+id_riga;id_opportunita;codice_articolo;descrizione;quantita;prezzo_unitario;sconto
+5001;3005;BF-00012;Granulato PP 25kg;40 pz;48,90;10%
+5002;3005;BF00340;Stampo iniezione;2;;0,05
+5003;9999;BF-00012;Riga di un'offerta non importata;1;48,90;

@@ -1,0 +1,22 @@
+# secrets
+.env
+.env.*
+!.env.example
+
+# node
+node_modules/
+dist/
+*.tsbuildinfo
+
+# built web UI (crm/web builds into crm/public)
+crm/public/
+
+# generated sample archive (npx tsx scripts/sample-export.ts)
+crm/sample/sample-export.zip
+
+# organizer export, never committed
+**/export.zip
+
+# system
+.DS_Store
+*.log

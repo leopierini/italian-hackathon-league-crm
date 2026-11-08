@@ -1,0 +1,7 @@
+id_utente;nome;cognome;email;ruolo;responsabile;attivo
+U01;Giulia;Ferri;giulia.ferri@brambillaforniture.it;Direttore commerciale;;SI
+U02;Marco;Riva;marco.riva@brambillaforniture.it;Commerciale;U01;SI
+U03;Paolo;Conti;p.conti@brambillaforniture.it;Commerciale;U01;NO
+U04;Sara;Galli;sara.galli@brambillaforniture.it;Assistenza;U01;SI
+U05;Paolo;Conti;paolo.conti@brambillaforniture.it;Commerciale;U01;SI
+U06;Luca;Bassi;luca.bassi@brambillaforniture.it;Commerciale;U02;NO

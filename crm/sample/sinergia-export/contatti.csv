@@ -1,0 +1,9 @@
+id_contatto;nome;cognome;email;telefono;id_azienda;tipo;cancellato;ultima_modifica
+2001;Anna;Rossi;anna.rossi@officinerossi.it;039 1234567;1001;Cliente;;10/01/2024
+2002;Anna;Rossi;ANNA.ROSSI@officinerossi.it ;039 1234567;1002; cliente ;;20/05/2025
+2003;Davide;Bianchi;d.bianchi@tessiturabianchi.com;031 765432;1003;CLIENTE;;2024-02-02
+2004;Elena;Colombo;e.colombo@mosemeccanica.it;0341 222333;1005;Prospect;;
+2005;Franco;Gallo;02 9988776;franco@plastichegallo.it;1007;Lead;;
+2006;Irene;Moretti;n.d.;0332 445566;1008;Cliente;;
+2007;Roberto;Sala;roberto.sala@plastichegallo.it;;;Lead;;
+2008;Giorgio;Neri;giorgio.neri@ferramentaverdi.it;;1006;Ex cliente;S;

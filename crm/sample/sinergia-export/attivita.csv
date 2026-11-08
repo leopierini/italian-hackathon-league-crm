@@ -1,0 +1,8 @@
+id_attivita;tipo;data;testo;id_contatto;id_opportunita;id_utente;cancellato
+7001;Telefonata;12/02/2025 10:30;Richiamato per ordine utensili;2001;3001;U02;
+7002;Nota;14/03/2025;Ordine confermato;2002;3001;U02;
+7003;E-mail;20/01/2025 08:15;Inviata offerta rinnovo;2003;3003;U05;
+7004;Visita;03/10/2025 15:00;Sopralluogo in stabilimento;2005;3005;U06;
+7005;Riunione;05/12/2021;Kickoff cablaggi;2006;3006;U02;
+7006;Telefonata;12/02/2025 10:30;Richiamato per ordine utensili;2001;3001;U02;
+7007;Appunto;01/06/2024;Nota cancellata;2004;;U02;S

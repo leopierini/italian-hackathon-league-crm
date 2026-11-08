@@ -1,0 +1,9 @@
+id_azienda;ragione_sociale;sito_web;note;citta;provincia;cancellato;ultima_modifica
+1001;Officine Rossi S.r.l.;www.officinerossi.it;P.IVA 01234567890 - pagamento 30gg;Monza;mb;;12/03/2024
+1002;Officine Rossi Srl;https://officinerossi.it/contatti;;Monza;MB;N;05/06/2025 10:15
+1003;Tessitura Bianchi S.p.A.;tessiturabianchi.com;partita iva 09876543210;Como;CO;;2023-11-20
+1004;Bianchi Tessuti;bianchitessuti.it;P. IVA: IT 09876543210;Como;CO;;01/02/2025
+1005;MosÃ¨ Meccanica S.r.l.;mosemeccanica.it;;Lecco;LC;;10/10/2022
+1006;Ferramenta Verdi;;;Bergamo;BG;S;01/01/2020
+1007;Plastiche Gallo S.n.c.;plastichegallo.it;PI: 11223344556;Brescia;BS;;15/09/2025
+1008;Elettroforniture Moretti;elettromoretti.it;cliente storico;Varese;VA;;03/03/2021

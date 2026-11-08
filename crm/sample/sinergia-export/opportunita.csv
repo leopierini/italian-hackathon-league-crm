@@ -1,0 +1,9 @@
+id_opportunita;titolo;id_azienda;contatti;importo;valuta;pipeline;fase;data_chiusura;id_commerciale;cancellato;ultima_modifica
+3001;Fornitura utensili 2025 - Officine Rossi;1002;2001;€ 48.500,00;EUR;VENDITE;06 - Vinta;14/03/2025;U02;;
+3002;Storno fattura 112/2025 - Officine Rossi;1001;;€ -2.150,00;€;Vendite;06;20/06/2025;U02;;
+3003;Manutenzione annuale - Tessitura Bianchi;1003;2003;1.850,00 mensili;EUR;RINNOVI;R3;;U03;;
+3004;Impianto aspirazione - Bianchi Tessuti;1004;2003;USD 30.000;USD;Vendite;Persa;10/04/2025;Riva M.;;
+3005;Componenti plastici - Plastiche Gallo;1007;2005;;;Vendite;03;;U06;;
+3006;Cablaggi 2021 - Elettroforniture Moretti;1008;2006;€ 12.000;EUR;VENDITE;Vinta;30/11/2021;U02;;
+3007;Offerta stampi - Mose Meccanica;1005;2004;5000;EUR;Vendite;02;;U02;S;
+3008;Ricambi 2025 - Officine Rossi;1001;2002;206,5k;EUR;Vendite;Vinta;02/09/2025;U05;;
